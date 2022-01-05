@@ -1,5 +1,5 @@
 # 👻
-<td bgcolor="yellow">Full name</td>
+<td textcolor="yellow">Full name</td>
 
 
 
